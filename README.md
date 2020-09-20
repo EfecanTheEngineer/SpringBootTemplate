@@ -1,5 +1,5 @@
 # SpringBootTemplate
-Spring Boot template project integrating tutorials for "Building REST Api", "Building Mongo Client" and "Swagger Api Documentation".
+Spring Boot template project integrating Spring Boot official tutorials for "Building REST Api", "Building Mongo Client" and "Swagger Api Documentation".
 
 Because this is template project there are no fancy run/build scripts just run the main class "SpringBaseRestApiApplication".
 
